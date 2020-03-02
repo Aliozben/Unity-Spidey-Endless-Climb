@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 24fd0ef85a2e7cf46bb364d5e6e0a441
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fall_01
+  - first:
+      213: 21300002
+    second: Fall_02
+  - first:
+      213: 21300004
+    second: SNES_MSHWotG_spiderman_2
+  - first:
+      213: 21300006
+    second: SNES_MSHWotG_spiderman_3
+  - first:
+      213: 21300008
+    second: SNES_MSHWotG_spiderman_4
+  - first:
+      213: 21300010
+    second: SNES_MSHWotG_spiderman_5
+  - first:
+      213: 21300012
+    second: SNES_MSHWotG_spiderman_6
+  - first:
+      213: 21300014
+    second: SNES_MSHWotG_spiderman_7
+  - first:
+      213: 21300016
+    second: SNES_MSHWotG_spiderman_8
+  - first:
+      213: 21300018
+    second: SNES_MSHWotG_spiderman_9
+  - first:
+      213: 21300020
+    second: Climp_06
+  - first:
+      213: 21300022
+    second: SNES_MSHWotG_spiderman_11
+  - first:
+      213: 21300024
+    second: SNES_MSHWotG_spiderman_12
+  - first:
+      213: 21300026
+    second: SNES_MSHWotG_spiderman_13
+  - first:
+      213: 21300028
+    second: SNES_MSHWotG_spiderman_14
+  - first:
+      213: 21300030
+    second: SNES_MSHWotG_spiderman_15
+  - first:
+      213: 21300032
+    second: SNES_MSHWotG_spiderman_16
+  - first:
+      213: 21300034
+    second: SNES_MSHWotG_spiderman_17
+  - first:
+      213: 21300036
+    second: Climp_05
+  - first:
+      213: 21300038
+    second: SNES_MSHWotG_spiderman_19
+  - first:
+      213: 21300040
+    second: SNES_MSHWotG_spiderman_20
+  - first:
+      213: 21300042
+    second: SNES_MSHWotG_spiderman_21
+  - first:
+      213: 21300044
+    second: SNES_MSHWotG_spiderman_22
+  - first:
+      213: 21300046
+    second: SNES_MSHWotG_spiderman_23
+  - first:
+      213: 21300048
+    second: SNES_MSHWotG_spiderman_24
+  - first:
+      213: 21300050
+    second: SNES_MSHWotG_spiderman_25
+  - first:
+      213: 21300052
+    second: SNES_MSHWotG_spiderman_26
+  - first:
+      213: 21300054
+    second: Climp_04
+  - first:
+      213: 21300056
+    second: SNES_MSHWotG_spiderman_28
+  - first:
+      213: 21300058
+    second: SNES_MSHWotG_spiderman_29
+  - first:
+      213: 21300060
+    second: SNES_MSHWotG_spiderman_30
+  - first:
+      213: 21300062
+    second: Climp_03
+  - first:
+      213: 21300064
+    second: SNES_MSHWotG_spiderman_32
+  - first:
+      213: 21300066
+    second: SNES_MSHWotG_spiderman_33
+  - first:
+      213: 21300068
+    second: SNES_MSHWotG_spiderman_34
+  - first:
+      213: 21300070
+    second: SNES_MSHWotG_spiderman_35
+  - first:
+      213: 21300072
+    second: SNES_MSHWotG_spiderman_36
+  - first:
+      213: 21300074
+    second: SNES_MSHWotG_spiderman_37
+  - first:
+      213: 21300076
+    second: SNES_MSHWotG_spiderman_38
+  - first:
+      213: 21300078
+    second: SNES_MSHWotG_spiderman_39
+  - first:
+      213: 21300080
+    second: Climp_02
+  - first:
+      213: 21300082
+    second: SNES_MSHWotG_spiderman_41
+  - first:
+      213: 21300084
+    second: SNES_MSHWotG_spiderman_42
+  - first:
+      213: 21300086
+    second: SNES_MSHWotG_spiderman_43
+  - first:
+      213: 21300088
+    second: SNES_MSHWotG_spiderman_44
+  - first:
+      213: 21300090
+    second: SNES_MSHWotG_spiderman_45
+  - first:
+      213: 21300092
+    second: SNES_MSHWotG_spiderman_46
+  - first:
+      213: 21300094
+    second: SNES_MSHWotG_spiderman_47
+  - first:
+      213: 21300096
+    second: ChangeWall_01
+  - first:
+      213: 21300098
+    second: ChangeWall_02
+  - first:
+      213: 21300100
+    second: Idle
+  - first:
+      213: 21300102
+    second: Climp_01
+  - first:
+      213: 21300104
+    second: ChangeWall_03
+  - first:
+      213: 21300106
+    second: Idle_00
+  - first:
+      213: 21300108
+    second: OnAir_1
+  - first:
+      213: 21300110
+    second: OnAir_2
+  - first:
+      213: 21300112
+    second: OnAir0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_MSHWotG_spiderman_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 378
+        width: 28
+        height: 87
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climp_06
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 398
+        width: 26
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MSHWotG_spiderman_17
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 289
+        width: 28
+        height: 87
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climp_05
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 329
+        width: 26
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MSHWotG_spiderman_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 202
+        width: 28
+        height: 87
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climp_04
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 251
+        width: 26
+        height: 74
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climp_03
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 186
+        width: 26
+        height: 66
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MSHWotG_spiderman_39
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 130
+        width: 40
+        height: 71
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climp_02
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 117
+        width: 29
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeWall_01
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 80
+        width: 48
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeWall_02
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 79
+        width: 62
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 87
+        width: 27
+        height: 39
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climp_01
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 43
+        width: 26
+        height: 74
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeWall_03
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 25
+        width: 60
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_01
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 218
+        width: 60
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_02
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 215
+        width: 65
+        height: 37
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_00
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 272
+        width: 33
+        height: 39
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAir_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 316
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAir_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 306
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAir0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 283
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
